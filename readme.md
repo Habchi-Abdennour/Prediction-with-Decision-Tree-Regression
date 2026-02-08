@@ -4,7 +4,7 @@
 This project predicts median house values using a Decision Tree Regressor with preprocessing pipelines for handling numerical and categorical features.
 
 ## Dataset
-- **Source**: `./data/housing.csv`
+- **Source**: `kaggle.com/datasets/camnugent/california-housing-prices`
 - **Target**: `median_house_value`
 - **Features**: Numerical columns and `ocean_proximity` (categorical)
 
